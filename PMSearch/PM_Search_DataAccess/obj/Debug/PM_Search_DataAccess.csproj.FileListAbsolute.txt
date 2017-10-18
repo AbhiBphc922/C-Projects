@@ -1,0 +1,5 @@
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_DataAccess\bin\Debug\PM_Search_DataAccess.dll
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_DataAccess\bin\Debug\PM_Search_DataAccess.pdb
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_DataAccess\obj\Debug\PM_Search_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_DataAccess\obj\Debug\PM_Search_DataAccess.dll
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_DataAccess\obj\Debug\PM_Search_DataAccess.pdb

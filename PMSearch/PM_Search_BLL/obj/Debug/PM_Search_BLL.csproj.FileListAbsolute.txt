@@ -1,0 +1,9 @@
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\obj\Debug\PM_Search_BLL.csprojResolveAssemblyReference.cache
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\obj\Debug\PM_Search_BLL.Properties.Resources.resources
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\obj\Debug\PM_Search_BLL.csproj.GenerateResource.Cache
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\bin\Debug\PM_Search_BLL.dll
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\bin\Debug\PM_Search_BLL.pdb
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\bin\Debug\PM_Search_DataAccess.dll
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\bin\Debug\PM_Search_DataAccess.pdb
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\obj\Debug\PM_Search_BLL.dll
+C:\Users\aa049389\Documents\Visual Studio 2015\Projects\PMSearch\PM_Search_BLL\obj\Debug\PM_Search_BLL.pdb
