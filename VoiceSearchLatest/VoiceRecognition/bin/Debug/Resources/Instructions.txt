@@ -1,0 +1,26 @@
+
+Voice PM Search form:
+
+Say the name clearly to populate in the text box.
+
+1. 'exit'- To Exit the application(Shortcut-Alt+F4,File->Exit).
+
+2. 'type'- Displays a text box for us to enter a name.
+
+Other functions-
+
+1. Help- Displays this window.(Shortcut-Alt+H,File->Help)
+
+2. Start- Enables the microphone for voice input.(Shortcut-Alt+T)
+
+3. Stop- To stop microphone.(Shortcut-Alt+S)
+
+Enter Name form:
+
+Spell out the name and it populates in the text box.
+
+1. Save- Used to add the name in the text box to the database.(Shortcut-Ctrl+S)
+
+2. Clear- Used to clear the name in the text box.(Shortcut-Ctrl+C)
+
+3. Back- Used to revert to the PM Search form.(Shortcut-Esc)

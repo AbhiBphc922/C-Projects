@@ -1,0 +1,8 @@
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\bin\Release\VoiceRecognition.exe.config
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\bin\Release\VoiceRecognition.exe
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\bin\Release\VoiceRecognition.pdb
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\obj\Release\VoiceRecognition.Form1.resources
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\obj\Release\VoiceRecognition.Properties.Resources.resources
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\obj\Release\VoiceRecognition.csproj.GenerateResource.Cache
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\obj\Release\VoiceRecognition.exe
+c:\users\aa049389\documents\visual studio 2017\Projects\VoiceRecognition\VoiceRecognition\obj\Release\VoiceRecognition.pdb
